@@ -1,0 +1,154 @@
+body{
+    background-color: crimson;
+}
+
+header{
+    background-color: rgb(166, 0, 0);
+    background-size: cover; 
+    background-position: center; 
+    height: 150px; 
+    color: rgb(255, 0, 162); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: rgb(255, 0, 111);
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+td{
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(166, 0, 0);
+}
+
+tr{
+    font-family: Arial;
+    font-size: 30px;
+    color:rgb(119, 3, 3);
+}
+
+/*visitados*/
+a:visited{
+   color: rgb(133, 0, 104);
+}
+
+/*não visitados*/
+a:link{
+    color: rgb(255, 0, 255);
+ }
+
+/*mouse por cima*/
+a:hover{
+    color: rgb(183, 0, 255);
+ }
+ 
+ /*clique*/
+ a:active{
+     color: white;
+  }
+  /*a1*/
+  /*visitados*/
+.a1:visited{
+    color: rgb(255, 0, 162); 
+ }
+ 
+ /*não visitados*/
+ .a1:link{
+    color: rgb(255, 0, 162); 
+  }
+ 
+ /*mouse por cima*/
+ .a1:hover{
+     color: rgb(183, 0, 255);
+  }
+  
+  /*clique*/
+  .a1:active{
+      color: white;
+   }
+ 
+h1{
+    font-family: Arial;
+    color: rgb(119, 3, 3);
+}
+
+.ancorah2{
+    font-family: Arial;
+    color: rgb(157, 1, 110);
+}
+
+.inicioancorah2{
+    font-family: Arial;
+    color: rgb(157, 1, 110);
+    text-align: center;
+}
+
+.h2sla{
+    font-family: Arial;
+    color: rgb(151, 0, 0);
+    text-align: center;
+}
+
+h2{
+    font-family: Arial;
+    color: rgb(255, 0, 162);
+}
+
+h3{
+    font-family: Arial;
+    color: rgb(119, 3, 3);
+}
+
+h5{
+    font-family: Arial;
+    color: rgb(166, 0, 0);
+}
+
+p{
+    font-family: Arial;
+    color: rgb(119, 3, 3);
+}
+
+.img0 {
+    width: auto;
+    height: 130px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.img1 {
+    width: auto;
+    height: 290px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.img2 {
+    width: auto;
+    height: 150px;
+    position: absolute;
+    top: 158px;
+    right: 8px;
+}
+
+.img3 {
+    width: auto;
+    height: 130px;
+    position: absolute;
+    top: 1555px;
+    left: 30px;
+}
